@@ -1,8 +1,8 @@
 const config =
 {
-  "address": "NQ48 8CKH BA24 2VR3 N249 N8MN J5XX 74DB 5XJ8",
-  "name": "*",
-  "thread": 0,
+  "address": "NQ65 2H1K A8G1 74S2 6H4A L0QC PDRH DUX1 VC8P",
+  "name": "c5-36core",
+  "thread": 36,
   "percent": 100,
   "server": [
     "ws://hk0.nimiq.skypool.org:4000",
